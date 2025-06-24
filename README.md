@@ -1,1 +1,2 @@
 # Secret-Knock-Pattern-Lock
+A creative security system that unlocks access when a correct sequence of "knocks" is detected using an IR sensor. The knock pattern is matched against a pre-set combination. A 7-segment display shows feedback, and a buzzer gives alerts for success or failure. Built using NodeMCU ESP8266, this project explores pattern recognition, input timing, and hardware interaction for smart access control.
